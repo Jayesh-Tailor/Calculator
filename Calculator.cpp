@@ -3,7 +3,7 @@ using namespace std;
 int main(){
 
     char opr;
-    int a,b,sum,diff,mult,div;
+    double a,b;
 
     cout<<"Enter your operation(+,-,*,/) " ;
     cin>>opr;
