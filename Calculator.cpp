@@ -8,10 +8,10 @@ int main(){
     cout<<"Enter your operation(+,-,*,/) " ;
     cin>>opr;
 
-    cout<<"Enter a " ;
+    cout<<"Enter first digit : " ;
     cin>>a;
 
-    cout<<"Enter b " ;
+    cout<<"Enter second digit : " ;
     cin>>b;
 
     if(opr=='+'){
