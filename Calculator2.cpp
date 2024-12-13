@@ -30,6 +30,10 @@ int main(){
         cout<<(a/b);
         break;
 
+        case '%':
+        cout<<(a%b);
+        break;
+
         default:
         cout<<"This is invalid "<<endl;
         

@@ -26,6 +26,9 @@ int main(){
     else if(opr=='/'){
         cout<<"Division is "<<(a/b)<<endl;
     }
+    else if(opr=='%'){
+        cout<<"Remainder is "<<(a%b)<<endl;
+    }
     else{
         cout<<"Invalid operation "<<endl;
     }
