@@ -18,7 +18,7 @@ int main(){
         cout<<"Sum is "<<(a+b)<<endl;
     }
     else if(opr=='-'){
-        cout<<"Difference is "<<(a-b)<<endl;
+        cout<<"Difference is "<<(a-b)<<endl; 
     }
     else if(opr=='*'){
        cout<<"Multiplication is "<<(a*b)<<endl;
